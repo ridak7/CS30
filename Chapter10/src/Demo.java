@@ -1,3 +1,5 @@
+									This file should be removed from your final product
+
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
